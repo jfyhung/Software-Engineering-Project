@@ -1,3 +1,9 @@
+/**************************
+ * Author: bruce30262
+ * Language: C++
+ * Date: 2013/05/20
+ * 
+***************************/
 #include <iostream>
 #include <cstdio>
 
